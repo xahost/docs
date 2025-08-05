@@ -12,6 +12,10 @@
       {
         "group": "Overview",
         "pages": ["index"]
+      },
+      {
+        "group": "Get Started",
+        "pages": ["get-started/access"]
       }
     ],
     "global": {
