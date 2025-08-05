@@ -8,15 +8,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": " ",
-        "groups": [
-          {
-            "group": "Overview",
-            "pages": ["index"]
-          }
-        ]
+        "group": "Guides",
+        "pages": ["index"]
       }
     ],
     "global": {
