@@ -10,7 +10,7 @@
   "navigation": {
     "groups": [
       {
-        "group": "Guides",
+        "group": "Overview",
         "pages": ["index"]
       }
     ],
@@ -43,7 +43,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://billing.xahosting.co/home"
+      "href": "https://billing.xahosting.co/dashboard"
     }
   },
   "footer": {
