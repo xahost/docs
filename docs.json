@@ -10,10 +10,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": " ",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Overview",
             "pages": ["index"]
           }
         ]
@@ -50,14 +50,6 @@
       "label": "Dashboard",
       "href": "https://billing.xahosting.co/home"
     }
-  },
-  "contextual": {
-    "options": [
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
   },
   "footer": {
     "socials": {
